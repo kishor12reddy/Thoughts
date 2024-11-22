@@ -1,0 +1,2 @@
+1) machine should detect emotional state from the input given by user.
+2) classify the emotions and load the shlokas from the data set based on the emotion
